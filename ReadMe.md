@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Desenvolvimento Full Stack 👩🏼‍🎓💻🌐<br>Estou  a procura de estágio!👩🏼‍💻<br>Tenho 21 anos<br>Faço alguns projetos com  HTML5, CSS E JS.<br>PYTHON-Básico.<br>Estou cursando o 2° semestre, me formo em 06/2026
+Sou estudante de Desenvolvimento Full Stack 👩🏼‍🎓💻🌐<br>Estou  a procura de estágio!👩🏼‍💻<br>Tenho 21 anos<br>Faço alguns projetos com  HTML5, CSS E JS.<br>PYTHON-Básico.<br>Estou cursando o 3° semestre, me formo em 06/2026
 
 
 ## 🌐 Socials:
